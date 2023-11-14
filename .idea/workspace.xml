@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="751c312c-30d2-4aa3-9384-ce5a4262c350" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01-Introduccion/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="751c312c-30d2-4aa3-9384-ce5a4262c350" name="Changes" comment="Mi primera pagina web">
+      <change beforePath="$PROJECT_DIR$/01-Introduccion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Introduccion/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +59,17 @@
       <option name="presentableId" value="Default" />
       <updated>1699339381906</updated>
       <workItem from="1699910615584" duration="913000" />
-      <workItem from="1699924900151" duration="222000" />
+      <workItem from="1699924900151" duration="585000" />
     </task>
+    <task id="LOCAL-00001" summary="Mi primera pagina web">
+      <option name="closed" value="true" />
+      <created>1699925274739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699925274739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mi primera pagina web" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mi primera pagina web" />
   </component>
 </project>
